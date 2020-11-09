@@ -1,5 +1,6 @@
+#!/usr/bin/python2
+
 import pandas as pd
-import pprint
 import requests
  
 def collapse_results_by_party(results_by_candidate, candidates):
